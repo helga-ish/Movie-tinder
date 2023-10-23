@@ -1,2 +1,2 @@
 # Movie-tinder
-Find out the movies borh of you like!
+Find out the movies both of you like!
